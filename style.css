@@ -1,0 +1,9 @@
+:root{
+    --text-color: #dbe4ef;
+    --cor-cartao-frente: #144480;
+    --cor-cartao-verso: #00f4bf;
+}
+
+body{
+    font-family: Bai Jamjuree;
+}
