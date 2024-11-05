@@ -18,3 +18,5 @@
 
 criarCartao('Biologia','Qual a funçâo da mitocondria','Produção de energia(ATP)')
 criarCartao('Matematica','Como é definido um grupo?','é um conjunto de individuos que reunidos formam um todo')
+criarCartao('Palmeiras','Tem mundial Rafael?','Nao')
+criarCartao('Corinthians','Ele consegue jogar a libertadores?','obvio')
